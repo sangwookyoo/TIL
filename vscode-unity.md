@@ -11,4 +11,4 @@
 
 - VSCODE - Preference - C# configuration - omnisharp.useModernNet: `false`
 - Unity - Preference - External Tools - External Script Editor: `Visual Studio Code`
-- Unity - Paackage Manager: `Visual Studio Code Editor`
+- Unity - Package Manager: `Visual Studio Code Editor`
