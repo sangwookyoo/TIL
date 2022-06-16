@@ -5,9 +5,7 @@
     <b>Note</b>: This version of Mono, which is installed into your system, will not interfere with the version of MonoDevelop that is installed by Unity.
 4. Install extension from the VSCODE Marketplace.
     - [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
-    - [Debugger for Unity](https://marketplace.visualstudio.com/items?itemName=Unity.unity-debug)
     - [Unity Code Snippets](https://marketplace.visualstudio.com/items?itemName=kleber-swf.unity-code-snippets)
-    - [Unity Tools](https://marketplace.visualstudio.com/items?itemName=Tobiah.unity-tools)
 
 - VSCODE - Preference - C# configuration - omnisharp.useModernNet: `false`
 - Unity - Preference - External Tools - External Script Editor: `Visual Studio Code`
