@@ -1,4 +1,4 @@
-# [Unity Script Lifecycle Flowchart](https://docs.unity3d.com/kr/current/Manual/ExecutionOrder.html)
+# [Unity Script Lifecycle Flowchart](https://docs.unity3d.com/2021.3/Documentation/Manual/ExecutionOrder.html)
 ## Initialization
 1. Awake
 2. OnEnalbe
