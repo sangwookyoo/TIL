@@ -322,7 +322,6 @@ public class CLASS2 : MonoBehaviour
 	
 }
 ```
-----------------------
 
 ## 예외처리
 - try-catch-finally
