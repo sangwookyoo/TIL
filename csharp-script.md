@@ -218,6 +218,7 @@ void Start() => Plus();
 
 // 구현
 void Plus = (매개변수) => { 내용 }
+int Multiplay() => return num * num;
 
 // 델리게이트
 changeFunc += delegate() { } // 무명메소드
