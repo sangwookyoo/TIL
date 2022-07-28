@@ -1,4 +1,3 @@
-### 📌 VSCODE - Unity
 1. Install the [.NET Core SDK](https://dotnet.microsoft.com/download), which includes the Runtime and the `dotnet` command.
 2. [Windows only] Logout or restart Windows to allow changes to `%PATH%` to take effect.
 3. [macOS only] To avoid seeing "Some projects have trouble loading. Please review the output for more details", make sure to install the latest stable [Mono](https://www.mono-project.com/download/stable/) release.
