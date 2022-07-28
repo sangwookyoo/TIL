@@ -1,6 +1,5 @@
 # csharp-script
-- [Unity Script Lifecycle Flowchart](https://docs.unity3d.com/2021.3/Documentation/Manual/ExecutionOrder.html)
-- 누른상태에서 tab 누르면 자동완성
+
 ## 변수와 자료형
 ### 변수선언
 - 문자, 언더바(_)로 시작 가능
@@ -332,4 +331,12 @@ catch(DividByZeroException ie) { } // 오류검사
 finally { } // 최종실행문 (오류발생여부 상관없음)
 // Exception 모든오류
 throw new Exception(""); // 일부로 오류 발생
+```
+
+## 기타
+```csharp
+if (bind != null) => bind.SetField();
+bind?.SetField();
+
+$"string{@PARAM}";
 ```
