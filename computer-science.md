@@ -171,7 +171,7 @@
 - 매개변수로 넘겨주는 시간 만큼 함수를 지연호출
 - 폭발이 수류탄과 같은 오브젝트에서 발생하는 경우 약간의 지연 시간 이후 또는 오브젝트가 타겟과 접촉한 시점
 
-## Unity Life Cycle
+## [Unity Script Lifecycle Flowchart](https://docs.unity3d.com/2021.3/Documentation/Manual/ExecutionOrder.html)
 - Awake(), OnEnable(), Start(), FixedUpdate(), Physics~, Update(), Anim~, LateUpdate(), Rendering~, OnApplicationQuit(), OnDisable(), OnDestroy()
 
 ### Unity Update
